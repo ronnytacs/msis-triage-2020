@@ -1,3 +1,5 @@
+DROP DATABASE msis_triage;
+CREATE DATABASE msis_triage;
 USE msis_triage;
 
 DROP TABLE IF EXISTS Patient;
